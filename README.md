@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Shopping Site
+This is a basically a frontend based shopping application.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(N.B: I did not use backend so login id and password is hardcoded which I write below)
+UserId: user
+Password: user
 
-## Available Scripts
+## Live demo
 
-In the project directory, you can run:
 
-### `npm start`
+* [Click Here](https://shopping-site-omega.vercel.app/) to view live demo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Functionality
+- Login - logout (if user did not login user cannot access other page)
+- Filter (All filter functionalities work perfectly)
+- Add to cart (User can add to cart only one time and then increace and decrese the quantity)
+- maintain quantity (user can not buy over the quantity or availability)
+- Responsive pages (All pages are Responsive and support mobile and desktop screen both)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ - ### Login Page 
+    (Desktop view)
+    
+      ![App Screenshot](https://i.ibb.co/9nhwrYy/Screenshot-from-2023-03-20-21-52-28.png)
+      
+    (Mobile view)
+    
+      ![App Screenshot](https://i.ibb.co/tPfY4sx/Screenshot-from-2023-03-20-21-54-57.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ - ### Product Page 
+    (Desktop view)
+    
+      ![App Screenshot](https://i.ibb.co/6DfgFBC/Screenshot-from-2023-03-20-21-53-04.png)
+      
+    (Mobile view)
+    
+      ![App Screenshot](https://i.ibb.co/HdLPrZM/Screenshot-from-2023-03-20-21-54-17.png)
+    
+ - ### Cart Page 
+    (Desktop view)
+    
+      ![App Screenshot](https://i.ibb.co/XYsPMqB/Screenshot-from-2023-03-20-22-05-45.png)
+      
+    (Mobile view)
+    
+      ![App Screenshot](https://i.ibb.co/qxzXbqt/Screenshot-from-2023-03-20-21-54-43.png)
+      
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Thank you
+    
