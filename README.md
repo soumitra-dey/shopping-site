@@ -2,8 +2,10 @@
 This is a basically a frontend based shopping application.
 
 (N.B: I did not use backend so login id and password is hardcoded which I write below)
-UserId: user
-Password: user
+
+- UserId: user
+
+- Password: user
 
 ## Live demo
 
